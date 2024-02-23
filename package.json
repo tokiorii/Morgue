@@ -1,7 +1,7 @@
 {
   "name": "morgue",
   "version": "0.1.0",
-  "description": "Morgue - Discords New Third Party Optimized Software",
+  "description": "the morgue",
   "main": "dist/index.js",
   "scripts": {
     "compile": "node compile.js",
